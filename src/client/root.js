@@ -6,7 +6,7 @@ class Root extends Component{
     render(){
         let myStyle = {
             width:'100%',
-            height:500,
+            height:'100%',
             backgroundColor:'green',
             div:{
                 width:'100px',
